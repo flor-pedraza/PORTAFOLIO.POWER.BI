@@ -1,2 +1,18 @@
-# PORTAFOLIO.POWER.BI
-Análisis de la distribución del personal de la Administración Pública Nacional según género y tipo de cargo en el año 2022 OBJETIVO GENERAL: Realizar un análisis de la representación de las mujeres en puestos laborales estatales y su vinculación con la cantidad de puestos de carácter decisorio que tienen en las distintas jurisdicciones públicas en el período 2022. El dataset se compone de 15 atributos (columnas) de dos entidades principales: personal y organismo de la APN. Los atributos son: número de expediente en GDE, período (año y semestre), período de toma del dato (en formato fecha), jurisdicción, organismo centralizado, tipo de administración, provincia, sector público, tipo de planta, género, nivel pirámide (escalafón del puesto), grado del cargo, cantidad de puestos de trabajo que hay en el semestre registrado y salario bruto. Las herramientas tecnológicas utilizadas para el presente trabajo fueron varias, pero principalmente fue imprescindible el uso de excel para la construcción de la base madre, en este formato se bajaron los primeros datasets, se realizó la recopilación de información y se procesó la misma en diferentes tablas. Por su parte, en Power BI Desktop se realizó el mockup y el tablero y en drau.oi se realizó el diagrama entidad-relación. Se realizaron medidas con DAX.
+📊 Portafolio Power BI - Flor Pedraza
+Análisis de la distribución del personal de la Administración Pública Nacional según género y tipo de cargo en el año 2022.
+
+📌 Descripción del Proyecto
+Este proyecto es un tablero interactivo desarrollado en Power BI, donde se analiza la distribución del personal de la Administración Pública Nacional según género y tipo de cargo en el año 2022. El objetivo principal es explirar la representación de las mujeres en puestos laborales estatales y su vinculación con la cantidad de puestos de carácter decisorio que tienen en las distintas jurisdicciones públicas en el período 2022.
+
+🛠️ Habilidades Aplicadas
+- 📊 **Power BI** (Dashboards interactivos, visualización de datos)
+- 🏷️ **DAX** (Cálculos avanzados y medidas personalizadas)
+- 🔄 **Power Query** (Transformación y limpieza de datos)
+- 🗄️ **Modelado de Datos** (Relaciones, optimización, transformación y limpieza de datos)
+
+🚀 Enlace al Proyecto
+🔗 https://app.powerbi.com/reportEmbed?reportId=c92d759c-fdf7-4979-8701-20d9d6788d49&autoAuth=true&ctid=34f3cdbc-8533-4faa-a2c8-b782028891fa
+
+📞 Contacto
+📧 fpedraza2010@gmail.com
+🔗 https://www.linkedin.com/in/florencia-pedraza-sociologa/
