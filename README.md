@@ -1,7 +1,7 @@
-📊 Portafolio Power BI - Flor Pedraza
+📊 Portafolio Power BI 
 Análisis de la distribución del personal de la Administración Pública Nacional según género y tipo de cargo en el año 2022.
 
-📌 El presente proyecto es un tablero interactivo desarrollado en Power BI, donde se analiza la distribución del personal de la Administración Pública Nacional según género y tipo de cargo en el año 2022. El objetivo principal es explirar la representación de las mujeres en puestos laborales estatales y su vinculación con la cantidad de puestos de carácter decisorio que tienen en las distintas jurisdicciones públicas en el período 2022.
+📌 El presente proyecto es un tablero interactivo desarrollado en Power BI, donde se analiza la distribución del personal de la Administración Pública Nacional según género y tipo de cargo en el año 2022. El objetivo principal es explorar la representación de las mujeres en puestos laborales estatales y su vinculación con la cantidad de puestos de carácter decisorio que tienen en las distintas jurisdicciones públicas en el período 2022.
 
 🛠️ Habilidades Aplicadas
 - 📊 **Power BI** (Dashboards interactivos, visualización de datos)
