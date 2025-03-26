@@ -5,7 +5,7 @@ Análisis de la distribución del personal de la Administración Pública Nacion
 
 🛠️ Habilidades Aplicadas
 - 📊 **Power BI** (Dashboards interactivos, visualización de datos)
-- 🏷️ **DAX** (Cálculos avanzados y medidas personalizadas)
+- 🏷️ **DAX** (Cálculos y medidas personalizadas)
 - 🔄 **Power Query** (Transformación y limpieza de datos)
 - 🗄️ **Modelado de Datos** (Relaciones, optimización, transformación y limpieza de datos)
 
